@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Muhammed Favas
 ### Co-Founder and CTO of Tenor Hut Pvt. Ltd.
-I love developing new websites and applications that make our life a little bit better.
+Into App and Web Development.
 
-👀 I’m interested in Front-End Development
+👀 Lovin' Front-End Development
 
-🌱 I’m currently learning React native
+🌱 Learning React native
 
 📫 Contact me via favasme08@gmail.com
