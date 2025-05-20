@@ -1,9 +1,11 @@
-# 👋 Hi, I’m Muhammed Favas
-### Co-Founder of Tenor Hut Pvt. Ltd.
-Into App and Web Development.
+# 👋 Hi, I’m Muhammed Favas  
+### Front-End Lead at AutoSmart  
+Passionate about crafting seamless web experiences.
 
-👀 Front-End Development
+👨‍💻 Leading Front-End Development at **AutoSmart**
 
-🌱 Learning React native
+💡 Skilled in **Vue.js** and **React**
 
-📫 Contact me via favasme08@gmail.com
+🪄 CSS Wizard – turning designs into pixel-perfect, responsive interfaces
+
+📫 Reach me at **favasme08@gmail.com**
